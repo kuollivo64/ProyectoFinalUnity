@@ -1,2 +1,4 @@
 # ProyectoFinalUnity
- Nuestro Primer Juego en Unity XD
+ * Jesus Crithian Yujra Huanca
+ * Dylan Emilia Gutierrez Salazar
+ * Alvaro Ruben Gonzales Vilte
