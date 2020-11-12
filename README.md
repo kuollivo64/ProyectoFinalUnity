@@ -1,4 +1,4 @@
 # ProyectoFinalUnity
  * Jesus Crithian Yujra Huanca
- * Dylan Emilia Gutierrez Salazar
+ * Dylan Emilio Gutierrez Salazar
  * Alvaro Ruben Gonzales Vilte
