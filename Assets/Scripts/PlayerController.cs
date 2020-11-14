@@ -16,6 +16,7 @@ public class PlayerController : MonoBehaviour
 
     void Start()
     {
+        Time.timeScale = 1;
         _rigidbody2D = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
     }
@@ -78,7 +79,7 @@ public class PlayerController : MonoBehaviour
     {
         if (collision.gameObject.tag == "Piso") grounded = false;
         if (collision.gameObject.tag == "PisoMiel") grounded = false;
-    }
+    }                                                                                   
 
     private void OnBecameInvisible()
     {
