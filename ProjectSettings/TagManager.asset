@@ -7,6 +7,8 @@ TagManager:
   - Piso
   - Fuego
   - PisoMiel
+  - Enemy
+  - cho
   layers:
   - Default
   - TransparentFX
