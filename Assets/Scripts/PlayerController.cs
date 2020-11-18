@@ -11,6 +11,7 @@ public class PlayerController : MonoBehaviour
     private Animator anim;
     private bool grounded;
     private bool walking;
+    private bool attack;
     public GameObject panelGameOver;
     
 
@@ -56,7 +57,6 @@ public class PlayerController : MonoBehaviour
             _rigidbody2D.AddForce(Vector2.up * JumpForce, ForceMode2D.Impulse);
             walking = false;
         }
- 
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
